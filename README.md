@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **taskforkarde@gmail.com**
 
-- ⚡ Fun fact **I love learning languages so much that I can't speak proper English anymore.**
+- ⚡ Fun fact **I love learning languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
