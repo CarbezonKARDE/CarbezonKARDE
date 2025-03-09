@@ -57,7 +57,9 @@
   <a href="https://github.com/carbezonkarde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/taskforkarde/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="github" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/user_cd6eyoo58nl/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/GeeksForGeeks_logo.png" alt="github" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/taskforkarde" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="github" height="30" width="40" /></a>
   <a href="https://myanimelist.net/profile/CarbonKnows" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" alt="github" height="30" width="40" /></a>
+
 </p>
 
 ---
