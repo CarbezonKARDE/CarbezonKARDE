@@ -64,14 +64,6 @@
 
 ---
 
-### 🎯 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carbezonkarde&theme=onedark&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📌 Pinned Repositories
 
 <p align="center">
